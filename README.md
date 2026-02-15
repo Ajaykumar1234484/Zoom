@@ -1,4 +1,4 @@
-Zoom Clone – Real-Time Video Conferencing Application
+Zoom  – Real-Time Video Conferencing Application
 
 This is a full-stack video conferencing web application built using a modern MERN-style architecture.
 The application allows users to authenticate, create meeting rooms, and communicate in real-time using video, audio, and live events.
